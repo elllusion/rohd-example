@@ -1,2 +1,2 @@
 ## Rapid Open Hardware Development (ROHD)  Syntax and Examples
-The below offer some examples of implementations and syntax in ROHD.
+Some implementation and syntax examples in ROHD are provided here.
